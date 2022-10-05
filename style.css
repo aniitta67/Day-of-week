@@ -44,7 +44,7 @@ button{
  }
 h1{
     text-align: center;
-   
+    border-radius: 5px;
 
 }
 #heading{
@@ -58,7 +58,9 @@ p{
     height: 40px;
     font-size: 30px;
     color: #ffffff;
-   
+    border-radius: 5px;
+    box-shadow:  -5px -5px 12px #ffffff,
+    5px 5px 12px rgba(0,0,0,.16);
    
    
 }
